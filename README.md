@@ -11,15 +11,14 @@
 <br>
 <h3>Tenho em vista nas próximas semanas aprender as linguagens e ferramentas:</h3>
 <br>
-<br>
 
-- <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" /><a/>
-- <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node-logo" /><a/>
-- <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="logo-phyton" /><a/>
+
+<a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" /><a/>
+<a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node-logo" /><a/>
+<a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="logo-phyton" /><a/>
 <br>
-  <h3><b>Estes são os meus contatos: <b/></h3>
 <br>
-<br>
+  <h3>Contatos: <b/></h3>
 
 - <a href="https://www.linkedin.com/in/alexandre-marinho-590650144/" /><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="likedin-logo" /><a/> 
 - <a href="mailto:alexandre1985.marinho@gmail.com" /><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-logo" /><a/>
