@@ -1,20 +1,20 @@
 <h1 align="center">Olá! :smiley:</h1>
 
-<h2>Eu sou o Alexandre, um Programador Front End atualmente aprendendo e desenvolvendo projetos utilizando:</h2>
+<h2>Eu sou o Alexandre, um Programador Front End atualmente estudando e desenvolvendo projetos no curso do <a href="https://rodolfomori.com.br/devclub/">DevClub</a> com o professor <a href="https://github.com/rodolfomori">Rodolfo Mori</a> utilizando:</h2>
 <br>
 <br>
 <a href="#"><img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" width="70px" height="22px" /></a> || <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" width="70px" height="22px" /><a/> || <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git-logo" width="70px" height="22px" /><a/> || <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java" width="70px" height="22px" /><a/>
 <br>
 <br>
-<h3>Estou estudando <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java" width="70px" height="22px" /><a/> e <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" width="70px" height="22px" /><a/>.</h3>
+<h3>Estou estudando: <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java" /></h3>
 <br>
 <br>
-<h3>Tenho em vista nos proximos meses aprender as linguagens e ferramentas:</h3>
+<h3>Tenho em vista nas próximas semanas aprender as linguagens e ferramentas:</h3>
 <br>
 <br>
 
+- <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" /><a/>
 - <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node-logo" /><a/>
-- <a href="#"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="sql-logo" /><a/>
 - <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="logo-phyton" /><a/>
 <br>
   <h3><b>Estes são os meus contatos: <b/></h3>
