@@ -3,7 +3,7 @@
 <h2>Eu sou o Alexandre, um Programador Front End atualmente aprendendo e desenvolvendo projetos utilizando:</h2>
 <br>
 <br>
-<a href="#"><img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" width="70px" height="22px" /></a> || <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" width="70px" height="22px" /><a/> || <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git-logo" width="70px" height="22px" /><a/>
+<a href="#"><img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" width="70px" height="22px" /></a> || <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" width="70px" height="22px" /><a/> || <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git-logo" width="70px" height="22px" /><a/> || <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java" width="70px" height="22px" /><a/>
 <br>
 <br>
 <h3>Estou estudando <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java" width="70px" height="22px" /><a/> e <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" width="70px" height="22px" /><a/>.</h3>
