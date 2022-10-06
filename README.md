@@ -14,7 +14,6 @@
 
 
 <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" /><a/>
-<a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node-logo" /><a/>
 <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="logo-phyton" /><a/>
 <br>
 <br>
