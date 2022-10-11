@@ -6,7 +6,7 @@
 <a href="#"><img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" width="70px" height="22px" /></a> || <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" width="70px" height="22px" /><a/> || <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git-logo" width="70px" height="22px" /><a/> || <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java" width="70px" height="22px" /><a/> || <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"alt="logo-node" width="70px" height="22px" /></a>
 <br>
 <br>
-<h3>Estou estudando: <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"alt="logo-node" alt="logo-java" /></h3>
+<h3>Estou estudando: <a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"alt="logo-node" alt="logo-node" /></h3> & <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-java" /><a/>
 <br>
 <br>
 <h3>Tenho em vista nas próximas semanas aprender as linguagens e ferramentas:</h3>
