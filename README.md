@@ -14,9 +14,6 @@
 <br>
 <h3>Tenho em vista nas próximas semanas aprender as linguagens e ferramentas:</h3>
 <br>
-
-
-<a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" /><a/>
 <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="logo-phyton" /><a/>
 <br>
 <br>
